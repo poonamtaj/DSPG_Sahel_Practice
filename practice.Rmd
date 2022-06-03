@@ -5,3 +5,14 @@ date: "6/3/2022"
 output: html_document
 ---
 
+#histograms
+#Made by Milind
+```{r}
+library(ggplot2)
+library(gapminder)
+ggplot(data=gapminder,aes(x=gdpPercap))+
+  geom_histogram()
+```
+
+
+  
