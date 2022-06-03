@@ -4,4 +4,22 @@ author: "Poonam"
 date: "6/3/2022"
 output: html_document
 ---
+```{r load_data}
+library(gapminder)
+gap <- gapminder
+plot(lifeExp ~ year, data=gap)
+
+```
+```{r}
+library(readxl)
+
+gapminder <- read_excel("data/gapminder_data.xlsx")
+summary(gapminder)
+```
+```{r}
+americas <- gapminder[gapminder$continent=="Americas",]
+ggplot(data=americas, mapping = aes(x=year, y=lifeExp)) + geom_line() + facet_wrap( ~ country) + theme(axis.text.x = element_text(angle = 45))
+```
+
+
 
