@@ -1,0 +1,49 @@
+---
+title: "test_mapping"
+author: "Poonam"
+date: "6/3/2022"
+output: html_document
+---
+I am learning! 
+
+```{r}
+library(gapminder)
+library(ggplot2)
+library(readxl)
+gapdata <- read_excel("data/gapminder_data.xlsx")
+
+ggplot(data=gapdata,aes(x=lifeExp)) + 
+  geom_histogram() + theme_classic()
+```
+
+```{r load_data}
+library(gapminder)
+gap <- gapminder
+plot(lifeExp ~ year, data=gap)
+
+```
+```{r}
+library(readxl)
+
+gapminder <- read_excel("data/gapminder_data.xlsx")
+summary(gapminder)
+```
+
+```{r}
+library("ggplot2")
+ggplot(data = gapminder, mapping = aes(x = year , y = lifeExp)) + geom_point() 
+```
+
+
+
+#histograms
+#Made by Milind
+```{r}
+library(ggplot2)
+library(gapminder)
+ggplot(data=gapminder,aes(x=gdpPercap))+
+  geom_histogram()
+```
+
+
+  
