@@ -88,3 +88,6 @@ The overall findings show that 6 months before the typhoon hit, there was statis
 **Significance:**
 This study made significant progress on estimating the impacts of typhoons on household consumptions and being able to identify household potential vulnerability to poverty from typhoons. The regression model that was created can help identify households vulnerable to poverty. This can help provide aid to those that need it before typhoon season most effectively. 
 
+**Reference:**
+Skoufias, E., Kawasoe, Y., Strobl, E., & Acosta, P. A. (2019). Identifying the vulnerable to poverty from natural disasters: the case of typhoons in the Philippines. World Bank Policy Research Working Paper, (8857).
+
