@@ -1,0 +1,50 @@
+---
+title: "training_day_2"
+author: "CHB"
+date: '2022-06-06'
+output: html_document
+---
+
+```{r}
+devtools::install_github("walkerkq/openlibraryR")
+library(openlibraryR)
+library(tidyr)
+library(dplyr)
+library(jsonlite)
+```
+```{r}
+frankie <- get_books(book_id = '0517530716')
+str(frankie)
+```
+```{r}
+f_subjects <- frankie %>%
+  select(subjects) %>%
+  unnest(subjects, names_sep = "_")
+```
+```{r}
+library(jsonlite)
+horror <- fromJSON("https://openlibrary.org/subjects/horror_stories.json")
+```
+
+
+```{r}
+horror_authors <- horror$works %>%
+  select(authors) %>%
+  unnest(cols = c(authors)) %>%
+  relocate(key, after=name)
+```
+
+```{r}
+auth_ct <- horror_authors %>% summarize(count(name))
+```
+
+```{r}
+library(ggplot2)
+auth_ct <- horror$author %>% summarize(count(name)) 
+  ggplot() + geom_col()
+```
+
+```{r}
+ggplot("frankie", aes(x = ))
+```
+
