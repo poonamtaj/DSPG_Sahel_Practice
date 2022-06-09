@@ -32,3 +32,42 @@ In addition, to date, no study has used the historical distribution of covariate
 **Reference:**  
 Hill, R. V., & Porter, C. (2017). Vulnerability to drought and food price shocks: Evidence from Ethiopia. World Development, 96, 65-77.
 
+
+
+
+# Vulnerability to Poverty Following Extreme Weather Events in Malawi
+## Research Summary
+## Riley Rudd
+
+**Main Question:**
+
+* Although risk coping strategies and social safety net programs exist, household consumption is adversely affected following severe weather events in countries such as Malawi, pushing incredible amounts of homes into poverty despite their prior stability.
+* The main question of this study was to assess Malawi households’ vulnerability to poverty relating to extreme weather events.
+  + The research was conducted as the understanding of poverty is generally deduced from a poverty line, which does not assess the risk of what homes may become poor due to weather shocks.
+* The research was conducted with the goal of providing a foundation for and promoting the viability of adaptive social programs rather than depending on static metrics such as a poverty line, heightening a country’s ability to provide for families in need.
+
+**Methods and Data:**
+
+* Three rounds of Integrated Household Survey data were used to analyze vulnerability of households to poverty
+  + This data is nationally representative, and survey based.
+  + The sample sizes were 11,281, 12,271, and 12,447 respectively. 
+  + The study focuses on consumption per capita, and notes that the analysis excludes in-kind and cash support as public and private support to households increases during these extreme shocks.
+* The weather measurements focus on droughts and excess rain
+  + Data was collected from Climatic Research Unit’s Global Self-Calibrating Palmer Drought Severity Index which measures drought indicators based on metrics such as temperature, precipitation, and soil water content.
+  
+**Results:**
+
+* The study found that drought during the growing season decreases consumption per capita by 5 to 12 percent depending on the intensity of the drought.
+* Excess rainfall at the onset of the growing season reduces food consumption by 1.8 percent, while excess rainfall later in the growing season slightly increases consumption.
+* Vulnerability to poverty is higher than static poverty, especially when compared to static poverty measured during a good weather year.
+* In years of extreme drought the rate of poverty was higher than the rate of vulnerability to poverty as a result of even higher weather shock.
+
+**Significance:**
+
+* This study could be used for the identification of vulnerable households to prepare adaptive social programs.
+* The traditional set up of social programs is a poverty line – which does not include the homes at risk of poverty due to extreme weather; the study aids in the option to alter this method to make social protection more adaptive by horizontally expanding the programs to include vulnerable homes when needed.
+* Aids in future development of risk-induced poverty prevention.
+
+**Reference:**
+Baquie, S., & Fuje, H. (2020). Vulnerability to Poverty Following Extreme Weather Events in Malawi.
+
