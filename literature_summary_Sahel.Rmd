@@ -7,3 +7,28 @@ output: html_document
 
 (Use this file to create one rmd for our literature summary. Heading/subheadings include- your name, title of the paper, summary, reference in APA style. Feel free to work on YAML headings as part of practice. 
 Further, if you like to go ahead and put map of Niger that you practiced in GEE could be a addition to showcase what you have learned so far.)
+
+# Milind 
+# Vulnerability to Drought and Food Price Shocks
+## Evidence from Ethiopia  
+**Objective:**  
+This paper combines nationally representative household data with objective drought and price information to quantify the causes of vulnerability to poverty in Ethiopia. 
+
+**Method:**  
+Historical distributions of climate and price shocks in each district were used to simulate the probable distribution of future consumption for individual households; these were then used to quantify vulnerability to poverty.
+Region/Study Area: The dataset used has full coverage of all (Ethiopia) but the pastoral areas of Afar and Somaliland.
+
+**Data:**  
+The datasets used for the analysis are the nationally representative Household Income Consumption Expenditure Survey (HICES) and Welfare Monitoring Surveys (WMS) of 2010/11 and 2004/05 (henceforth 2011 and 2005 respectively). These contain information on just over 20,000 households in each year. The HICES captures information on expenditure on food and other items. The WMS records household assets and characteristics as well as a fairly detailed module on self-reported adverse shocks
+
+**Results:**  
+It is estimated that a moderate drought causes a 9 percent reduction in consumption for households that are not covered by the PSNP(Productive Safety Net Programme) in drought-prone areas. This implied a substantial increase in poverty when rains are poor. It is estimated that the high inflation experienced in the first half of 2011 resulted in a reduction of 14 percent in the consumption of uneducated households in urban areas.
+It is found that 42 percent of rural households are vulnerable to poverty, but only 21 percent of urban households. Vulnerability to poverty is much higher than poverty in rural areas but this is not the case in urban areas, reflecting the fact that the household survey was conducted during a year of good conditions for rural households and very difficult conditions for urban households. Within rural areas, vulnerability is higher in areas prone to drought. However, much vulnerability is not geographically determined, but instead determined by other factors such related to gender and education.
+
+**Significance:**  
+The results highlight the need for caution in using a snapshot of poverty to target programs, as underlying rates of vulnerability can be quite different from the poverty rate captured at one point in time.
+In addition, to date, no study has used the historical distribution of covariate shocks to estimate the distribution of future consumption and poverty. Existing studies rely instead on cross-sectional variation in shocks which does not accurately take into account the welfare volatility that arises from events that vary more across time than space. This study combines time-series information on rainfall-induced crop losses at the community level with the estimated impact of rainfall losses on consumption to predict future consumption
+
+**Reference:**  
+Hill, R. V., & Porter, C. (2017). Vulnerability to drought and food price shocks: Evidence from Ethiopia. World Development, 96, 65-77.
+
