@@ -4,6 +4,9 @@ author: "Sahel Team DSPG"
 date: "6/9/2022"
 output: html_document
 ---
+# Catherine Back
+# Identifying the Vulnerable to Poverty from Natural Disasters
+## The Case of Typhoons in the Philippines
 
 Main Question: short overview of the research question and objective of the paper
 	The main objective of the paper is to take a look at how typhoons in the Philippines are affecting the people living there and the households overall. It takes a look at wind speed and household FIES(food insecurity experience scale) and compares how the different levels of wind speed from typhoons impact consumption of the households. The objective is to take this information and create regression models that can help predict future natural disasters and see which households would be considered vulnerable to poverty. The ultimate goal is to use these models to support households before a natural disaster strikes.
