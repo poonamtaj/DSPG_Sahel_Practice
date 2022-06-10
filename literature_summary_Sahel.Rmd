@@ -1,12 +1,11 @@
 ---
-title: "Sahel_LiteratureSummary"
+title: "Background Literature Summary"
 author: "Sahel Team DSPG"
 date: "6/9/2022"
 output: html_document
 ---
 
-(Use this file to create one rmd for our literature summary. Heading/subheadings include- your name, title of the paper, summary, reference in APA style. Feel free to work on YAML headings as part of practice. 
-Further, if you like to go ahead and put map of Niger that you practiced in GEE could be a addition to showcase what you have learned so far.)
+This file contains summary of literature that will help us to prepare background for the research objectives.
 
 # Milind 
 # Vulnerability to Drought and Food Price Shocks
@@ -34,10 +33,10 @@ Hill, R. V., & Porter, C. (2017). Vulnerability to drought and food price shocks
 
 
 
-
+# Riley Rudd
 # Vulnerability to Poverty Following Extreme Weather Events in Malawi
 ## Research Summary
-## Riley Rudd
+
 
 **Main Question:**
 
